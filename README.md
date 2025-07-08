@@ -27,7 +27,7 @@ An intelligent LLM-powered agent that reads legal contracts and highlights poten
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/HiraWaheed/contract-review-agent.git
+git clone https://github.com/HiraWaheed/Contract_Reviewer_Agent.git
 cd contract-review-agent
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
